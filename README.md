@@ -1,7 +1,7 @@
 ![logo](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
 <h1 align="center">Hi 👋, I'm HariKrishnan</h1>
 <h3 align="center">Machine Learning Engineer | Data Structures | Data Modeling | Deep Learning | Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harikrishnan2000&label=Profile%20views&color=0e75b6&style=flat" alt="harikrishnan2000" /> </p>
 
 <p align="left"> <a href="https://twitter.com/harikri19837090" target="blank"><img src="https://img.shields.io/twitter/follow/harikri19837090?logo=twitter&style=for-the-badge" alt="harikri19837090" /></a> </p>
