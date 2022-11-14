@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Modeling, Stats, Carrier Guidance**
 
-- 📫 How to reach me **itsmeharikrishnan2016@gmail.com**
+- 📫 How to reach me **harikrishnan2000@zohomail.in**
 
 - ⚡ Fun fact **One of my Fun goal is to one day become the president of a financial corporation**
 
